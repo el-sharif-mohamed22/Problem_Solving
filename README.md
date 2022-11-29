@@ -1,2 +1,2 @@
-# Codeforces
-Codeforces problems solutions
+# Codeforces, AtCoder, Hacker Rank, SPOJ, UVa
+Problems solutions
