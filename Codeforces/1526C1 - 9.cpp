@@ -1,8 +1,7 @@
 //// problem link: https://codeforces.com/contest/1526/problem/C1
 //// problem name: 1526C1 - 9, Potions (Easy Version)
 #include <iostream>
-#include <set>
-#include <algorithm>
+#include <queue>
 #include <vector>
 using namespace std;
 
@@ -17,22 +16,22 @@ int main() {
         cin >> arr[i];
     }
     long long health{0};
-    multiset<int> st;
+    priority_queue<int> neg;
     for (int i = 0; i < n; ++i) {
         if (arr[i] >= 0) {
             count++;
             health += arr[i];
         } else if (arr[i] + health < 0){
-            if (!st.empty() && *st.begin() < arr[i]) {
-                health -= (*st.begin());
+            if (!neg.empty() && neg.top() > -arr[i]) {
+                health += neg.top();
                 health += arr[i];
-                st.erase(st.begin());
-                st.insert(arr[i]);
+                neg.pop();
+                neg.push(-arr[i]);
             }
         } else {
             health += arr[i];
             count++;
-            st.insert(arr[i]);
+            neg.push(-arr[i]);
         }
     }
     cout << count;
