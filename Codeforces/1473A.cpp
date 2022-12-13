@@ -1,5 +1,5 @@
 // problem link: https://codeforces.com/problemset/problem/1473/A
-// problem name: A. Replacing Elements, 1473A
+// problem name: 1473A, Replacing Elements 
 #include <iostream>
 #include <vector>
 using namespace std;

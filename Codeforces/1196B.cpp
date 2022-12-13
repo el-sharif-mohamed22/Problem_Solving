@@ -1,5 +1,5 @@
 // problem link: https://codeforces.com/problemset/problem/1196/B
-// problem name: B. Odd Sum Segments, 1196B - 20
+// problem name: B. Odd Sum Segments, 1196B
 #include <iostream>
 #include <vector>
 #include <algorithm>

@@ -1,4 +1,4 @@
-// Problem name: 337A - 9, Puzzles
+// Problem name: 337A, Puzzles
 // problem link: https://codeforces.com/problemset/problem/337/A
 #include <iostream>
 #include <vector>

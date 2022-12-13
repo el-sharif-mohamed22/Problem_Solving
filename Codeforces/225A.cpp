@@ -1,5 +1,5 @@
 // problem link: https://codeforces.com/problemset/problem/225/A
-// problem name: A. Dice Tower, 225A - 43
+// problem name: A. Dice Tower, 225A
 #include <iostream>
 #include <string>
 using namespace std;

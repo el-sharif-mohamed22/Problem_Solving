@@ -1,5 +1,5 @@
 //// problem link: https://codeforces.com/contest/1490/problem/F
-//// problem name: 1490F - 18 - Equalize the Array
+//// problem name: 1490F, Equalize the Array
 #include <iostream>
 #include <map>
 #include <algorithm>

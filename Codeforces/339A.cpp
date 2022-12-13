@@ -1,5 +1,5 @@
 // problem link: https://codeforces.com/problemset/problem/339/A
-// problem name: A. Helpful Maths, 339A - 11
+// problem name: A. Helpful Maths, 339A
 #include <iostream>
 #include <vector>
 #include <string>

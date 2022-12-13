@@ -1,4 +1,4 @@
-// Problem name: 34B - 4, Sale
+// Problem name: 34B, Sale
 // problem link: https://codeforces.com/contest/34/problem/B
 #include <iostream>
 #include <vector>

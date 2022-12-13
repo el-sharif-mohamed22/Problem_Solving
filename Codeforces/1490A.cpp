@@ -1,5 +1,5 @@
 // problem link: https://codeforces.com/problemset/problem/1490/A
-// problem name: A. Dense Array, 1490A - Dense Array
+// problem name: 1490A, Dense Array
 #include <iostream>
 #include <vector>
 #include <algorithm>

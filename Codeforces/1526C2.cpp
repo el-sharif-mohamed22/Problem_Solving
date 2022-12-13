@@ -1,5 +1,5 @@
 //// problem link: https://codeforces.com/contest/1526/problem/C2
-//// problem name: 1526C2 - 14, Potions (Hard Version)
+//// problem name: 1526C2, Potions (Hard Version)
 #include <iostream>
 #include <queue>
 #include <vector>

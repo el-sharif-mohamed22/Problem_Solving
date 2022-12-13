@@ -1,5 +1,5 @@
 // problem link: https://codeforces.com/problemset/problem/1360/B
-// problem name: B. Honest Coach, 1360B - Honest Coach
+// problem name: 1360B, Honest Coach
 #include <iostream>
 #include <vector>
 #include <algorithm>
